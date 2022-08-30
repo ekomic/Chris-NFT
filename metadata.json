@@ -1,0 +1,28 @@
+{
+    "description": "This is Chris Ekom, a full-stack blockchain developer/web2 dev, am highly motivated and enjoy working with other people!", 
+    "external_url": "https://chrisekom.dev", 
+    "image": "https://ipfs.filebase.io/ipfs/QmRV8QD87qoiApRqULQ2szvBafimQVw81BuQmWuRXfm8Yr", 
+    "name": "ERC721 Assets",
+    "attributes": [ 
+        { 
+            "trait_type": "Work",   
+            "value": "Smart Work"
+        },
+        {
+            "trait_type": "Skills",   
+            "value": "Am comfortable with HTML3, CSS3, JS, SOLIDITY, REACT and NEXT"
+        },
+        {
+            "trait_type": "Availabilities",    
+            "value": "Am ready, put a call and get me committed"
+        },
+        {
+            "trait_type": "Website",    
+            "value": "chrisekom.dev"
+        },
+        {
+            "trait_type": "Token Standard",    
+            "value": "ERC721"
+        }
+ ] 
+}
